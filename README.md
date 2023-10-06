@@ -10,10 +10,10 @@ Link to Github repository [tfcb-homework01](https://github.com/adnlargent/tfcb-h
 
 ## Subheading 3 - images
 Rhytidoponera metallica
-!(/tfcb-homework01/images/casent0172345_Rhytidoponera_metallica.jpg)
+![Rm](/images/casent0172345_Rhytidoponera_metallica.jpg)
 
 Camponotus darwinii
-!(/tfcb-homework01/images/casent0191696_Camponotus-darwinii.jpg)
+![Cd](/images/casent0191696_Camponotus_darwinii.jpg)
 
 ## Subheading 4 - table
 Plot 1
@@ -24,4 +24,3 @@ Plot 1
 | 20140313 | DM | F | 51 |
 | 20140313 | DM | F | 44 |
 | 20140313 | DS | F | 146 |
-
