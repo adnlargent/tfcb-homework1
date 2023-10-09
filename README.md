@@ -25,4 +25,4 @@ Plot 1
 | 20140313 | DM | F | 44 |
 | 20140313 | DS | F | 146 |
 
-Note about notation in tables: abs = absent data, NA = non-applicable
+Note about notation in tables: abs = absent data
